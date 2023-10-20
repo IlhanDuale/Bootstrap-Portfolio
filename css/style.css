@@ -54,138 +54,14 @@ body {
     font-weight: normal;
 }
 
-
-/* Reset box-sizing and body styles */
-
-
-/*{
-    box-sizing: border-box;
-}
-
-
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    line-height: 1.5;
-    background-color: white;
-}
-
-
-/* Navbar styles */
-
-
-/*.header {
-    padding: 10px;
-    background-color: #708090;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-size: larger;
-    z-index: auto;
-}
-
-.logo {
-    font-size: 35px;
-    text-decoration: none;
-    color: white;
-}
-
-.navbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.navbar a {
-    text-decoration: none;
-    color: white;
-    margin-left: 35px;
-    font-size: 20px;
-}
-
-
-/* Page-wide text styles */
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin: 0;
-    color: black;
-}
-
-p {
-    margin: 0;
-}
-
-
-/* Hero banner styles */
-
-.hero-banner {
-    padding: 10px;
-    margin: 10px;
-    background-color: grey;
-    display: flex;
-    justify-content: space-between;
-}
-
-.hero-banner div {
-    width: auto;
-}
-
-
-/* Image styles */
-
-img {
-    max-width: 100%;
-    margin: 20px 10px;
-}
-
-
-/* Page section styles */
-
-#page-wrapper {
-    background-color: grey;
-    padding: 10px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-}
-
-#first-section {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-}
-
-#second-section {
-    display: flex;
-    flex-basis: 30%;
-    align-items: center;
-    justify-content: flex-end;
-}
-
-#third-section {
-    display: flex;
-    flex-basis: 30%;
-    align-items: center;
-    justify-content: center;
-}
-
 @media (max-width: 768px) {
-    .header {
+    .container-fluid {
         display: block;
     }
-    .navbar {
+    .collapse-navbar-collapse .navbar-nav {
         display: none;
     }
-    .navbar.active {
+    .collapse-navbar-collapse .navbar-nav a {
         display: block;
     }
 }
-
-
-/*
