@@ -6,7 +6,7 @@
  https://ilhanduale.github.io/Bootstrap-Portfolio/ Links to an external site.
 
 # Description
-This Bootstrap-powered portfolio website offers a modern and responsive design, featuring a top navigation bar for easy section access, a captivating hero section for personal introduction, a grid-based work section for showcasing projects with Bootstrap cards, a skills section for future learning goals, an "About Me" and "Contact" section, enhanced user experience with hover effects on hyperlinks and buttons, and a mobile-friendly design. 
+This Bootstrap-powered portfolio website offers a modern and responsive design, featuring a top navigation bar for easy section access, a hero section for personal introduction, a grid-based work section for showcasing projects with Bootstrap cards, a skills section for future learning goals, an "About Me" and "Contact" section, enhanced user experience with hyperlinks and buttons, and a mobile-friendly design. 
 
 ## Installation
 
