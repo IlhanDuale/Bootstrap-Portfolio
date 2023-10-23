@@ -1,7 +1,8 @@
 # Bootstrap-Portfolio
 
 # Portfolio
-<img width="1440" alt="Screenshot 2023-10-18 at 21 07 39" src="https://github.com/IlhanDuale/Bootstrap-Portfolio/assets/88343208/6d248bdb-9bab-49a5-9b54-5df4f3402936">
+<img width="1440" alt="Screenshot 2023-10-23 at 12 02 52" src="https://github.com/IlhanDuale/Bootstrap-Portfolio/assets/88343208/ec8af829-4587-4c16-931f-cfaac93e187e">
+
  https://ilhanduale.github.io/Bootstrap-Portfolio/ Links to an external site.
 
 # Description
@@ -17,7 +18,9 @@ N/A
 
 ## Credits
 https://getbootstrap.com/docs/5.0/components/navbar/
+
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 ## License
